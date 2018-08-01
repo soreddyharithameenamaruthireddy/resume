@@ -1,0 +1,57 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-tech(computer scince engineering)",
+      "institute":"siddharth institute of engineering",
+      "data":["2015-19","76%"]
+
+    },
+    {
+      "degree":"intermediate (M.p.c)",
+      "institute":"sri chaithanya",
+      "data":["2013-15","93%"]
+
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Z.P.high school",
+      "data":["2012-13","8.2"]
+
+    }
+  ],
+  "skills":[
+    {
+      "title":"programming languages",
+      "set":["java","C","Python","C++"]
+    },
+    {
+      "title":"web technologies",
+      "set":["HTML","css","PHP","javascript"]
+
+    },
+    {
+      "title":"Data Bases",
+      "set":["SQL","mySql","Oracle","noSql"]
+
+    },
+    {
+
+      "title":"Operating Systems",
+      "set":["DOS","windows","linux","Mac"]
+    }
+  ],
+  "achivements":[
+    {
+      "achivedData":"Got first Prize in PPT presentation."
+    },
+    {
+      "achivedData":"Got first Prize in Technical Quiz." },
+    {
+      "achivedData":"Got first Prize in Running Competition."
+    }
+  ]
+
+}
